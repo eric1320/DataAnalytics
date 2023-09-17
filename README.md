@@ -11,13 +11,9 @@ Analysis type:
 
 Time Series Analysis
 
-Crime Category Analysis
+Crash category Analysis
 
 Changing correlated Patterns
-
-Regional and seasonality Analysis
-
-Crime Hotspots
 
 Charts: Heatmaps, plotbar, subplots
 
